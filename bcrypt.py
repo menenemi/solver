@@ -1,3 +1,4 @@
+# This is a solver for Lunizz CTF, TryHackMe
 import bcrypt
 import base64
 import codecs
